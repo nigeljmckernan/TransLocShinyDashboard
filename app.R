@@ -41,7 +41,7 @@ openApiGETFunction <- function(URL, Params) {
     URL,
     add_headers(
       "x-rapidapi-host" = 'transloc-api-1-2.p.rapidapi.com',
-      "x-rapidapi-key" = '1af289feb6mshc1048127cd197a4p119eb2jsnb9b2394700da'
+      "x-rapidapi-key" = 'REDACTED_Insert_Your_Own_Key_Here'
     ),
     query = Params
   )
